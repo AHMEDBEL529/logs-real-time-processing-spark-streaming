@@ -7,3 +7,6 @@ In this project we try to:
 1. Retrieve the Python script (Log data generator)
 2. Develop a Scala application with SBT which acts as a mediator.
 3. Configure Kibana for a graphical presentation of the result.
+
+To see how it works, you can check the link bellow :
+https://youtu.be/bJTpaCeu6nY
