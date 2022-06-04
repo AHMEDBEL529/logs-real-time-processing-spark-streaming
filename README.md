@@ -8,5 +8,5 @@ In this project we try to:
 2. Develop a Scala application with SBT which acts as a mediator.
 3. Configure Kibana for a graphical presentation of the result.
 
-To see how it works, you can check the link bellow :
+To see how it works, you can check the following link  :
 https://youtu.be/bJTpaCeu6nY
